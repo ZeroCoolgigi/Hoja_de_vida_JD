@@ -1,0 +1,12 @@
+.divheader {
+    display: flex;
+    margin: 0;
+    margin-top: -150px;
+    width: 100%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: #2683aa;
+}
